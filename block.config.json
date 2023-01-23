@@ -1,0 +1,8 @@
+{
+  "name": "sump",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/grgshiji/sump",
+    "ssh": "git@github.com:grgshiji/sump.git"
+  }
+}
